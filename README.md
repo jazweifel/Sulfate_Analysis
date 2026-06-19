@@ -42,7 +42,7 @@ Hoesly, R. et al. (2018). *Historical (1750–2014) anthropogenic emissions of r
 
 A permanent snapshot of this repository is archived on Zenodo:
 
-DOI: https://doi.org/10.5281/zenodo.18893812
+DOI: https://doi.org/10.5281/zenodo.20767158
 
 ---
 
