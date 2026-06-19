@@ -17,7 +17,9 @@ figures/
     ├── Figure_02
     ├── Figure_03
     ├── ...
-    └── Figure_10
+    ├── Figure_10
+    ├── Figure_S1
+    └── Figure_S2
 ```
 
 Each directory contains the Jupyter notebook used to generate the corresponding manuscript figure.
