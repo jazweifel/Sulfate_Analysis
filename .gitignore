@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Climate model data
+*.nc
+*.nc4
+*.hdf
+*.h5
+*.zarr/
+
+# Python
+__pycache__/
+*.pyc
+
+# Misc.
+*.csv
