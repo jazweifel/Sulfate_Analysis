@@ -12,8 +12,7 @@ The analysis processes output from the **Community Earth System Model (CESM2.1.5
 ## Repository Structure
 
 ```
-notebooks/
-└── figures/
+figures/ 
     ├── Figure_01
     ├── Figure_02
     ├── Figure_03
