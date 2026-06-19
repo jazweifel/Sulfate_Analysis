@@ -3,7 +3,7 @@
 This repository contains analysis notebooks used to generate figures for:
 
 **Zweifel et al. (2026)**  
-*Seasonality of Sulfate Aerosols and Radiative Forcing from East Asian SO₂ Emissions over the North Pacific.*
+*Investigating Seasonality in Sulfate Presence and Radiative Forcing in the North Pacific*
 
 The analysis processes output from the **Community Earth System Model (CESM2.1.5)** and produces the figures used in the manuscript.
 
